@@ -4,6 +4,11 @@
 
 A version controlled key-value store with a HTTP API
 
+TECH USED
+- Node Js with express
+- MongoDB for DB
+- Swagger for Documentation
+
 ## Getting Started
 
 
@@ -26,6 +31,7 @@ Start server:
 ```sh
 # Start server
 yarn start
+```
 
 
 Swagger UI Can be accessed from
