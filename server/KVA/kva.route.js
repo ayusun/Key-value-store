@@ -11,6 +11,8 @@ router.route('/')
  * /object/:
  *   post:
  *     description: Create a new Key Value Object
+ *     tags:
+ *        - Key Value
  *     consumes:
  *       - application/json
  *     produces:
@@ -47,6 +49,8 @@ router.route('/')
  * /object/{key}:
  *   get:
  *     description: Get Saved Value
+ *     tags:
+ *      - Key Value
  *     produces:
  *       - application/json
  *     parameters:

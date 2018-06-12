@@ -33,6 +33,11 @@ Swagger UI Can be accessed from
 http://localhost:4040/swagger/
 ```
 
+DEMO
+```
+https://kva-store.herokuapp.com/swagger/
+```
+
 
 Tests:
 ```sh
